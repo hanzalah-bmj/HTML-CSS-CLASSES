@@ -1,0 +1,46 @@
+/* h1{
+    color: blueviolet;
+}
+
+#id1{
+    color: brown;
+}
+
+.heading1{
+    color: aquamarine;
+}
+
+h2,h3,#para,u,b,.heading5-6{
+    color:darkgreen;
+}
+
+.btn{
+    margin-left: 50%;
+    color: white;
+    background-color:crimson;
+    border: 0px;
+    border-radius: 2px;
+    width: 100px;
+    height: 30px;
+} */
+
+h1{
+    color: red;
+}
+
+h2{
+    color: rgb(200, 150, 100)
+}
+
+h3{
+    color: #201598
+}
+
+h4{
+    color: hsl(60, 100%, 50%);
+    background-color: black;
+}
+
+h5{
+    color: rgba(145, 86, 27, 0.695)
+}
